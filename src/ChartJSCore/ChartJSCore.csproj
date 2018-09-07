@@ -4,7 +4,7 @@
     <Description>A .NET Core library for generating Chart.js code.</Description>
     <AssemblyTitle>ChartJSCore</AssemblyTitle>
     <VersionPrefix>1.0.3</VersionPrefix>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
     <AssemblyName>ChartJSCore</AssemblyName>
     <PackageId>ChartJSCore</PackageId>
     <NetStandardImplicitPackageVersion>1.6.1</NetStandardImplicitPackageVersion>
